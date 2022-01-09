@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../C80"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADVC78template-main"
+	}
+}
